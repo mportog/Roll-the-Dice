@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_btn_label">Rolar o dado</string>
+    <string name="img_placeholder">Image placeholder for the result of rolled dice</string>
+</resources>
